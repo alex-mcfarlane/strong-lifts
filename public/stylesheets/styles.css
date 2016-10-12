@@ -1,0 +1,15 @@
+body {
+  padding: 50px;
+  font: 14px "Lucida Grande", Helvetica, Arial, sans-serif;
+}
+
+a {
+  color: #00B7FF;
+}
+
+.page-header .pull-right, .panel-heading .pull-right{
+	margin:20px 0 10px;
+}
+.inline-header h1, .inline-header h3, .inline-header p{
+	display: inline-block;
+}
